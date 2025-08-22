@@ -14,8 +14,6 @@ This project implements a Transformer architecture from scratch for machine tran
   
   Used Hugging Face’s bert-base-uncased tokenizer for text preprocessing.
   
-  Includes <SOS>, <EOS>, <PAD>, and <UNK> tokens for handling sequences.
-  
   Training
   
   Trained on a custom parallel English–French dataset with 1M+ rows.
